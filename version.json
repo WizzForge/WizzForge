@@ -1,6 +1,6 @@
    {
-     "version": "1.0.2",
-     "notes": "Dark Tittle Bar Fix",
-     "url": "https://github.com/WizzForge/WizzForge/releases/download/1.0.2/WizzForge-Setup-1.0.2.exe",
-     "sha256": "CF6C9C65E3F4292DF797DAA76A7D2C27741D2C04E90C2E5D51FC068E47CD4743"
+     "version": "1.0.3",
+     "notes": "Fixes Turn off Game DVR getting undone by Windows and Xbox app updates.",
+     "url": "https://github.com/WizzForge/WizzForge/releases/download/1.0.3/WizzForge-Setup-1.0.3.exe",
+     "sha256": "06B5A81B8EAB9FF4455E241A7E685EC3CEEFA174836C7A92F16BBF84E9E6C8C1"
    }
