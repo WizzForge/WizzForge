@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "notes": "Reinstall removed apps, Comeback alarm, new Copilot & AI, Sponsored and Windows 10 pages, optional OneDrive removal.",
-  "url": "https://github.com/WizzForge/WizzForge/releases/download/1.0.4/WizzForge-Setup-1.0.4.exe",
-  "sha256": "6332C837CEADA2CDCF74F9DAC017F68FA2F397728168E599999C6C17262AB3B4"
+  "version": "1.0.3",
+  "notes": "Fixes Turn off Game DVR getting undone by Windows and Xbox app updates.",
+  "url": "https://github.com/WizzForge/WizzForge/releases/download/1.0.3/WizzForge-Setup-1.0.3.exe",
+  "sha256": "A39C0874D39096D2AE27888E66BFD78CC24F85B853E365D5D2D7B46D16B70839"
 }
