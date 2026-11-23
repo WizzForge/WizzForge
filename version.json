@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "notes": "Fixes Turn off Game DVR getting undone by Windows and Xbox app updates.",
-  "url": "https://github.com/WizzForge/WizzForge/releases/download/1.0.3/WizzForge-Setup-1.0.3.exe",
-  "sha256": "A39C0874D39096D2AE27888E66BFD78CC24F85B853E365D5D2D7B46D16B70839"
+  "version": "1.0.5",
+  "notes": "Reinstall removed apps, Comeback alarm, Copilot removal for all versions, new AI/Sponsored/Win 10 pages, optional OneDrive removal, license fix.",
+  "url": "https://github.com/WizzForge/WizzForge/releases/download/1.0.5/WizzForge-Setup-1.0.5.exe",
+  "sha256": "9FB98B538557C31E7E8B7C1A32F4DE882F961EFF0C89F46BBED40BCA48DD1402"
 }
